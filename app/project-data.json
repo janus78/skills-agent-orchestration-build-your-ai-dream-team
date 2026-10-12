@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Mona",
+      "summary": "Make it easier for new contributors to find their first task and understand the project workflow.",
+      "status": "In progress",
+      "recentActivity": "Updated the first-week checklist and opened it for team review.",
+      "priority": "High"
+    },
+    {
+      "name": "Documentation Refresh",
+      "owner": "Ravi",
+      "summary": "Clarify setup instructions and bring the most-used contributor guides up to date.",
+      "status": "On track",
+      "recentActivity": "Completed a review of the local development guide.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Accessibility Improvements",
+      "owner": "Elena",
+      "summary": "Improve keyboard navigation, page structure, and accessible feedback across team tools.",
+      "status": "Needs attention",
+      "recentActivity": "Collected keyboard navigation issues for the next planning session.",
+      "priority": "High"
+    },
+    {
+      "name": "Release Readiness",
+      "owner": "Jordan",
+      "summary": "Coordinate release checks and keep the team's launch checklist accurate.",
+      "status": "Planning",
+      "recentActivity": "Drafted the release checklist for feedback.",
+      "priority": "Low"
+    }
+  ]
+}
